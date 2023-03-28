@@ -1,4 +1,4 @@
- *
+ /*
  * @flow
  */
 const listeners: Array<() => boolean | null | undefined> = []
