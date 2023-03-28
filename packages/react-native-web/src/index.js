@@ -29,6 +29,8 @@ export { default as Share } from './exports/Share';
 export { default as StyleSheet } from './exports/StyleSheet';
 export { default as UIManager } from './exports/UIManager';
 export { default as Vibration } from './exports/Vibration';
+export { default as BackHandler } from './exports/BackHandler';
+
 
 // components
 export { default as ActivityIndicator } from './exports/ActivityIndicator';
